@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @TheHacha167
 - 👀 I’m interested in DIY light proyects
-- 🌱 I’m currently learning c++
+- 🌱 I’m currently learning c++, C, Python
+- Currently studying computer engeniering 
 
 
 <!---
