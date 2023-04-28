@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thehacha167&label=Profile%20views&color=0e75b6&style=flat" alt="thehacha167" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thehacha167" alt="thehacha167" /></a> </p>
-
 - 🌱 I’m currently learning **C/c++**
 
 - 🤝 I’m looking for help with **argb proyects**
@@ -25,5 +23,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thehacha167&show_icons=true&locale=en&layout=compact" alt="thehacha167" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thehacha167&show_icons=true&locale=en" alt="thehacha167" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thehacha167&" alt="thehacha167" /></p>
