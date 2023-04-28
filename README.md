@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **C/c++**
 
-- 🤝 I’m looking for help with **argb proyects**
-
 - ⚡ Fun fact **I like analogic stuff and leds (specially argb ones)**
 
 <h3 align="left">Connect with me:</h3>
