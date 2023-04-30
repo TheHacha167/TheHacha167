@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thehacha167&label=Profile%20views&color=0e75b6&style=flat" alt="thehacha167" /> </p>
 
-- 🌱 I’m currently learning **C/c++**
+- 🌱 I’m currently learning **C/C++**
 
 - ⚡ Fun fact **I like analogic stuff and leds (specially argb ones)**
 
