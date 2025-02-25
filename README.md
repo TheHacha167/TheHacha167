@@ -5,6 +5,7 @@
 
 - ⚡ Fun fact **I like analogic stuff and LEDs (especially ARGB ones)**
 
+<h3 align="left">Languages and Tools:</h3>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
@@ -25,7 +26,9 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="30" alt="arduino logo"  />
 </div>
+<h3 align="left">Statistics:</h3>
+<div align="center">
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=thehacha167&show_icons=true&locale=en&layout=compact" alt="thehacha167" />
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thehacha167&show_icons=true&locale=en&layout=compact" alt="thehacha167" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thehacha167&show_icons=true&locale=en" alt="thehacha167" /></p>
+<img src="https://github-readme-stats.vercel.app/api?username=thehacha167&show_icons=true&locale=en" alt="thehacha167" />
+</div>
