@@ -26,9 +26,8 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="30" alt="arduino logo"  />
 </div>
-<h3 align="left">Statistics:</h3>
+<h3 align="left">Stata:</h3>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=TheHacha167&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=TheHacha167&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false" height="150" alt="languages graph"  />
 </div>
