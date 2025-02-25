@@ -35,8 +35,3 @@
 
 ###
 
-###
-
-<img src="https://raw.githubusercontent.com/TheHacha167/TheHacha167/output/snake.svg" alt="Snake animation" />
-
-###
